@@ -17,4 +17,4 @@ Visit the deployed application at https://orellanab5.github.io/SEO-CODE-REFRACTO
 
 ##### Screenshot
 
-![alt text](<![hw-picture-1.jpg](assets/images/hw-picture-1.jpg)>)
+![SEO Code Refractor Screenshot](https://raw.githubusercontent.com/orellanab5/SEO-CODE-REFRACTOR/main/assets\images\hw-picture-1.jpg)
